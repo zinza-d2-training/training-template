@@ -1,7 +1,7 @@
 {
-  "name": "React - Vaccine Portal",
+  "name": "Template name",
   "lang": "react",
-  "description": "Simplest design, react hook form, react-i18next,... includes issues, milestones, tags",
+  "description": "Template description",
   "wbsLink": "",
   "issuesOrder": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
   "cloneableFeatures": ["issues", "milestones", "tags"],
